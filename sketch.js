@@ -119,6 +119,7 @@ function movimentaRaqueteOponente(){
   }  
 }
 
+//caso queira jogar só ative essa função e desative a de cima
 //function movimentaRaqueteOponente(){
   //velocidadeYOponente = yBolinha - yRaqueteOponente - raqueteComprimento / 2 - 30;
   //yRaqueteOponente += velocidadeYOponente
